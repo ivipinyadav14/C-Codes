@@ -1,0 +1,1 @@
+// WAP to print highest frequency of a character in a string.

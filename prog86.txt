@@ -1,0 +1,2 @@
+Vowels : i
+Number of vowels is 1

@@ -1,0 +1,1 @@
+Student name = Vipin	Student roll no = 2001	Student CGPA = 8.400000	
